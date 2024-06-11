@@ -1,3 +1,3 @@
 # Simon-Game
 
-A psychological game in JS
+A fun game in JS using DOM and Eventisterners.
